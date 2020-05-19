@@ -8,11 +8,12 @@ data covers a variety of topics.
 
 The first plot is a streetmap. I bet you have seen such pictures as
 elements of decoration and you may even thought of buying one yourself.
-Well, I here show you how I made a NYC streetmap for myself following
-[this tutorial](https://ggplot2tutor.com/streetmaps/streetmaps/) and
-using [OpenStreetMap
-database](https://en.wikipedia.org/wiki/OpenStreetMap). Below you can
-see the final result. As said, this was NYC but you can just use any
-other spot you like in the world. Besides, you can easily customize the
-design elements with some notions of ggplot2.
-![](01_streetmap/NYC_streetmap.png)
+Well, I
+[here](https://github.com/mmaitenat/graphics_R/blob/master/01_streetmap/streetmap.R)
+show you how I made a NYC streetmap for myself following [this
+tutorial](https://ggplot2tutor.com/streetmaps/streetmaps/) and using
+[OpenStreetMap database](https://en.wikipedia.org/wiki/OpenStreetMap).
+Below you can see the final result. As said, this was NYC but you can
+just use any other spot you like in the world. Besides, you can easily
+customize the design elements with some notions of ggplot2.
+![](https://github.com/mmaitenat/graphics_R/blob/master/01_streetmap/NYC_streetmap.png)
