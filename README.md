@@ -30,10 +30,10 @@ points. A line is drawn connecting the data values for each spoke. This
 gives the plot a star-like appearance*. Here I will be plotting the
 macronutrient composition of the most common cereals. I’ll obtain food
 information from the Spanish Food Composition Database (BEDCA) using the
-[NutrienTracker
+[NutrienTrackeR
 package](https://cran.r-project.org/web/packages/NutrienTrackeR/index.html).
 For the chart I’ll be using the [radarchart
-package](https://cran.r-project.org/web/packages/radarchart/radarchart.pdf),
+package](https://cran.r-project.org/web/packages/radarchart/index.html),
 which provides an interface to the radar chart making function within
 Chart.js Javascript library. Now you can choose the best cereal for your
 own needs at a glance\!
